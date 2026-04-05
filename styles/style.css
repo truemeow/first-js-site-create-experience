@@ -1,6 +1,24 @@
-p {
-  color: red;
+html {
+  font-size: 14px;
+  font-family: "Oswald", sans-serif;
 }
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+h2 {
+    font-size: 30px;
+    text-align: center;
+}
+img {
+    width: 450px;
+    float: right;
+    margin-right: 10cm;
+}
+p,
 li {
-    color:blue;
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+  margin-left: 5cm;
 }
